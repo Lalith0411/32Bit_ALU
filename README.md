@@ -158,7 +158,7 @@ We are simulating verilog design without using any libraries
 
 A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
-![image](https://github.com/user-attachments/assets/d5202b97-ee5c-4e0e-9eaf-5f3fa733e546)
+
 
 ### Fig 5: Selection of Don’t include any libraries
 ![Screenshot 2025-04-28 151835](https://github.com/user-attachments/assets/6e815cec-d3c6-4540-aaa9-d61568822c62)
@@ -197,6 +197,7 @@ Left side select the file and in Tools : launch verilog compiler with current se
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
 ### Fig 7: Compiled database in worklib
+![Screenshot 2025-04-28 151950](https://github.com/user-attachments/assets/fcf8e2cb-57e7-4e74-a8f5-dd579e6acbcf)
 
 After compilation it will come under worklib you can see in right side window
 
