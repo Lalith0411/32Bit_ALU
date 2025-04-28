@@ -1,5 +1,3 @@
-![Screenshot 2025-04-28 152245](https://github.com/user-attachments/assets/0cc9ee19-b87c-4b47-9bcb-042e8c103f8a)# 32Bit_ALU Simulation
-
 # Aim: 
 
 Write a verilog code for 32 bit ALU supporting four logical and four arithmetic operations,use case statement and if statement for ALU behavioral modeling.
